@@ -1,0 +1,76 @@
+CSE 360, Professor Calliss, Recitation on Fridays from 10:45 to 11:35 am
+Group Members: Carter Chamberlin, Johnathon Coughlin, Nicholas Richards, & Anthony Trang
+Test Case 3:
+
+Features:
+Justification = Full
+Line Length = 60
+Spacing = Double
+Description:  Given an input text file, output a new text file with
+60 characters per line, full justification, and double spacing.
+
+
+
+
+
+Sample Input:
+
+The transistor is the fundamental building block of modern electronic
+devices, and is ubiquitous in modern electronic systems. Julius Edgar Lilienfeld patented a
+
+field-effect transistor in 1926 but it was not possible to actually construct a working device at that time.
+The first practically implemented device was a point-contact transistor
+
+invented in 1947 by American physicists John Bardeen, Walter Brattain, and William Shockley.
+
+The transistor revolutionized the field of electronics, and paved the way for smaller and
+cheaper radios, calculators, and computers, among other things. The transistor is on the list of IEEE milestones
+
+in electronics, and Bardeen, Brattain, and Shockley shared the 1956 Nobel Prize in Physics for their achievement.
+
+
+
+
+
+Sample Output:
+
+
+The  transistor  is the fundamental building block of modern
+
+electronic  devices,  and is ubiquitous in modern electronic
+
+systems.  Julius  Edgar  Lilienfeld  patented a field-effect
+
+transistor  in  1926  but  it  was  not possible to actually
+
+construct   a   working  device  at  that  time.  The  first
+
+practically   implemented   device   was   a   point-contact
+
+transistor  invented  in  1947  by  American physicists John
+
+Bardeen,   Walter   Brattain,   and  William  Shockley.  The
+
+transistor  revolutionized  the  field  of  electronics, and
+
+paved  the  way for smaller and cheaper radios, calculators,
+
+and  computers, among other things. The transistor is on the
+
+list   of  IEEE  milestones  in  electronics,  and  Bardeen,
+
+Brattain,  and  Shockley  shared  the  1956  Nobel  Prize in
+
+Physics for their achievement.
+
+
+
+
+Expected Analysis:
+
+Total Whitespace:       168
+Words processed:        111
+Lines processed:        27
+Blank lines removed:    4
+Avg words per line:     4.11
+Avg line length:        30
