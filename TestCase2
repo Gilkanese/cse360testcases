@@ -1,0 +1,41 @@
+CSE 360, Professor Calliss, Recitation on Fridays from 10:45 to 11:35 am
+Group Members: Carter Chamberlin, Johnathon Coughlin, Nicholas Richards, & Anthony Trang
+Test Case 2:
+
+Features:
+Justification = Right
+Line Length = 100
+Spacing = Double
+Description:  Given an input text file, output a new text file with
+100 characters per line, right justification, and double spacing.
+
+
+Sample input:
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One daaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay
+
+
+Sample output:
+
+ Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
+
+ the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large
+
+  language ocean. A small river named Duden flows by their place and supplies it with the necessary.
+
+ regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+
+  Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
+
+                                                                                            life One
+
+daaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay
+
+Expected analysis:
+
+Whitespace added:	178
+Words processed:	85
+Lines processed:	13
+Blank Lines removed:	0
+Avg words per line:	6.54
+Avg line length:	54.08
