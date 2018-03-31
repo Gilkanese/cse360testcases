@@ -1,0 +1,43 @@
+CSE 360, Professor Calliss, Recitation on Fridays from 10:45 to 11:35 am
+Group Members: Carter Chamberlin, Johnathon Coughlin, Nicholas Richards, & Anthony Trang
+Test Case 1:
+
+Features:
+Justification = Left
+Line Length = 30
+Spacing = Single
+Description:  Given an input text file, output a new text file with
+30 characters per line, left justification, and single spacing.
+
+Sample Input:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Vestibulum orci sapien, placerat eget urna ac, condimentum
+
+blandit leo. Vestibulum ante ipsum primis in faucibus orci
+
+luctus et ultrices posuere cubilia Curae.
+
+
+Sample Output:
+
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit.
+Vestibulum orci sapien,
+placerat eget urna ac,
+condimentum blandit leo.
+Vestibulum ante ipsum primis
+in faucibus orci luctus et
+ultrices posuere cubilia
+Curae.
+
+
+Expected Analysis:
+
+Whitespace:             22
+Words processed:        31
+Lines in output:        9
+Blank lines removed:    3
+Avg words per line:     3.444
+Avg line length:        23.111
